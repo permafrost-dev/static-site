@@ -4,7 +4,7 @@
                                 <link href="http://localhost/feedBaseUrl/feed3"></link>
                                 <title><![CDATA[Feed 3]]></title>
                                 <logo>http://localhost/image.jpg</logo>
-                                <description>This is feed 3 from the unit tests</description>
+                                <subtitle>This is feed 3 from the unit tests</subtitle>
                                                     <updated>2015-12-31T23:59:00+01:00</updated>
                         <entry>
             <title><![CDATA[feedItemTitle]]></title>
@@ -16,7 +16,7 @@
             <summary type="html">
                 <![CDATA[feedItemSummary]]>
             </summary>
-                        <enclosure url="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
+                        <link href="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
                                     <category term="feedItemCategory" />
                         <updated>2015-12-31T23:59:00+01:00</updated>
         </entry>
@@ -30,7 +30,7 @@
             <summary type="html">
                 <![CDATA[feedItemSummary]]>
             </summary>
-                        <enclosure url="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
+                        <link href="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
                                     <category term="feedItemCategory" />
                         <updated>2015-12-31T23:58:00+01:00</updated>
         </entry>
@@ -44,7 +44,7 @@
             <summary type="html">
                 <![CDATA[feedItemSummary]]>
             </summary>
-                        <enclosure url="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
+                        <link href="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
                                     <category term="feedItemCategory" />
                         <updated>2015-12-31T23:57:00+01:00</updated>
         </entry>
@@ -58,7 +58,7 @@
             <summary type="html">
                 <![CDATA[feedItemSummary]]>
             </summary>
-                        <enclosure url="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
+                        <link href="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
                                     <category term="feedItemCategory" />
                         <updated>2015-12-31T23:56:00+01:00</updated>
         </entry>
@@ -72,8 +72,8 @@
             <summary type="html">
                 <![CDATA[feedItemSummary]]>
             </summary>
-                        <enclosure url="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
+                        <link href="http://localhost/image1.jpg" length="31300" type="image/jpeg" />
                                     <category term="feedItemCategory" />
                         <updated>2015-12-31T23:55:00+01:00</updated>
         </entry>
-</feed>
+    </feed>
