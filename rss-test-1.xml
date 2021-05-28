@@ -10,51 +10,51 @@
         </image>
         <description><![CDATA[This is feed 1 as RSS from the unit tests]]></description>
         <language>en-US</language>
-        <pubDate>Fri, 01 Jan 16 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
 
                     <item>
                 <title><![CDATA[feedItemTitle]]></title>
                 <link>https://localhost/news/testItem1</link>
                 <description><![CDATA[feedItemSummary]]></description>
-                <author>feedItemAuthor</author>
+                <author>feedItemAuthor@test.test</author>
                 <guid>http://localhost/1</guid>
-                <pubDate>2016-01-01T00:00:00+01:00</pubDate>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
                                     <category>feedItemCategory</category>
                             </item>
                     <item>
                 <title><![CDATA[feedItemTitle]]></title>
                 <link>https://localhost/news/testItem1</link>
                 <description><![CDATA[feedItemSummary]]></description>
-                <author>feedItemAuthor</author>
+                <author>feedItemAuthor@test.test</author>
                 <guid>http://localhost/2</guid>
-                <pubDate>2016-01-01T00:00:00+01:00</pubDate>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
                                     <category>feedItemCategory</category>
                             </item>
                     <item>
                 <title><![CDATA[feedItemTitle]]></title>
                 <link>https://localhost/news/testItem1</link>
                 <description><![CDATA[feedItemSummary]]></description>
-                <author>feedItemAuthor</author>
+                <author>feedItemAuthor@test.test</author>
                 <guid>http://localhost/3</guid>
-                <pubDate>2016-01-01T00:00:00+01:00</pubDate>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
                                     <category>feedItemCategory</category>
                             </item>
                     <item>
                 <title><![CDATA[feedItemTitle]]></title>
                 <link>https://localhost/news/testItem1</link>
                 <description><![CDATA[feedItemSummary]]></description>
-                <author>feedItemAuthor</author>
+                <author>feedItemAuthor@test.test</author>
                 <guid>http://localhost/4</guid>
-                <pubDate>2016-01-01T00:00:00+01:00</pubDate>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
                                     <category>feedItemCategory</category>
                             </item>
                     <item>
                 <title><![CDATA[feedItemTitle]]></title>
                 <link>https://localhost/news/testItem1</link>
                 <description><![CDATA[feedItemSummary]]></description>
-                <author>feedItemAuthor</author>
+                <author>feedItemAuthor@test.test</author>
                 <guid>http://localhost/5</guid>
-                <pubDate>2016-01-01T00:00:00+01:00</pubDate>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
                                     <category>feedItemCategory</category>
                             </item>
             </channel>
